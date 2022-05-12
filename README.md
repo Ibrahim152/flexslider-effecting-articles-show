@@ -1,0 +1,1 @@
+# flexslider-effecting-articles-show
